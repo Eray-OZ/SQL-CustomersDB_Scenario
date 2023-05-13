@@ -1,4 +1,4 @@
--- Tabloların oluşturulması
+-- Create Tables
 
 
 
